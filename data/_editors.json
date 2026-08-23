@@ -4,5 +4,24 @@
         "name": "Zenith",
         "link": "https://www.youtube.com/@zenith4444"
     },
-
+    {
+        "role": "admin",
+        "name": "None",
+        "link": ""
+    },
+    {
+        "role": "helper",
+        "name": "None",
+        "link": ""
+    },
+    {
+        "role": "trial",
+        "name": "None",
+        "link": ""
+    },
+    {
+        "role": "dev",
+        "name": "..None",
+        "link": ""
+    }
 ]
